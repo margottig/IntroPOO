@@ -1,5 +1,3 @@
-#Esto es un comentario
-
 estudiantes = [
     {
     'id':1,
